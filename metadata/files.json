@@ -1,0 +1,26 @@
+{
+  "file_1790369731316_e0c8cf1e": {
+    "fileId": "file_1790369731316_e0c8cf1e",
+    "ownerId": "yovvbV0MilMHfQkKwoyjranfmVj1",
+    "originalName": "DDS-Full-Project-Spec.md",
+    "mimeType": "text/markdown",
+    "category": "documents",
+    "storagePath": "storage/documents/file_1790369731316_e0c8cf1e__DDS-Full-Project-Spec.md",
+    "hash": "336093af858bfac7e8b918beb4c8647a5c1f6fba547064c896dfaf719abf544a",
+    "sizeBytes": 27267,
+    "copies": [
+      {
+        "nodeId": "node-02",
+        "role": "primary",
+        "status": "OK"
+      },
+      {
+        "nodeId": "node-03",
+        "role": "replica",
+        "status": "OK"
+      }
+    ],
+    "createdAt": "2026-09-25T20:55:33.766Z",
+    "updatedAt": "2026-09-25T20:55:33.766Z"
+  }
+}
